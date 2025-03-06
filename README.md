@@ -13,7 +13,7 @@ Among other things, by the end of this self-pacing course, learners should expec
 5)  Get started with free and campus-licensed tools to manage and analyze qualitative data;
 6)  Identify data repositories and best approaches to share project deliverables.
 
-Although the current project example focuses on interview data, we anticipate expanding to include a variety of research designs and data types in future iterations. Additionally, many of the techniques and recommendations outlined can be applied to other data types, ensuring broader applicability across diverse projects.
+Although the current project example focuses on interview data, we anticipate expanding to include a variety of research designs and data types in future iterations, as well as other software applications. Still, many of the techniques and recommendations outlined can be applied to other data types, ensuring broader applicability across diverse projects.
 
 
 *If you have comments or feedback, please use the [issues](enter%20URL%20for%20issues) repository feature*
